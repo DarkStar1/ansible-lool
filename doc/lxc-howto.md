@@ -151,7 +151,7 @@ $ ssh ubuntu
 But let's upload our SSH public key to the container for convenience:
 
 <pre>
-$ ssh-copy-id <username>@ubuntu
+$ ssh-copy-id [username]@ubuntu
 </pre>
 
 Thats it - we are good to go!
